@@ -15,7 +15,6 @@ This is a web application that allows teachers to easily assign and manage homew
 - Python
 - Flask 
 - Flask-SQLAlchemy
-- SQLite database
 - HTML & CSS
 - Bootstrap
 
